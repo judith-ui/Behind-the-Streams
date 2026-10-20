@@ -2,7 +2,7 @@
 
 # Import Streamlit and the shared data paths, survey categories, and calculations.
 import streamlit as st
-from utils.constants import DATA_PATH, AGE_LABELS, GENDER_LABELS, FREQ_LABELS, DURATION_LABELS
+from utils.constants import BASE, DATA_PATH, AGE_LABELS, GENDER_LABELS, FREQ_LABELS, DURATION_LABELS
 from utils.io import load_data
 from utils.prep import weighted_share
 from utils.viz import apply_site_style
