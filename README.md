@@ -3,7 +3,6 @@
 Behind the streams is an interactive Streamlit dashboard exploring how people in France listen to music, how habits vary by age, and whether frequent listening relates to stated willingness to subscribe.
 
 ## The story
-
 As for the backstory, I chose a dataset that I found interesting. I listen to a great deal of music as do the people around me, especially my siblings so this is a subject I’m truly passionate about; analyzing a music-related dataset was something I was genuinely interested in. In the future, I would love to work in data within the music industry, so studying a dataset related to this field is a first step.
 
 **Do generations in France listen to music differently, and does daily listening necessarily imply willingness to pay  ?**
