@@ -4,7 +4,9 @@ Behind the streams is an interactive Streamlit dashboard exploring how people in
 
 ## The story
 
-As for the backstory, I chose a dataset that I found interesting. I listen to a great deal of music as do the people around me, especially my siblings so this is a subject I’m truly passionate about; analyzing a music-related dataset was something I was genuinely interested in. In the future, I would love to work in data within the music industry, so studying a dataset related to this field is a first step.
+Music has always been an important part of my daily life, from discovering new artists and attending concerts to sharing recommendations with my family. As someone interested in pursuing a career in data analytics within the music industry, I wanted to connect this personal passion with practical data analysis skills.
+
+This project gave me the opportunity to transform a public survey dataset into an interactive story, explore meaningful patterns in music consumption, and understand both the insights and limitations of survey data
 
 **Do generations in France listen to music differently, and does daily listening necessarily imply willingness to pay  ?**
 
