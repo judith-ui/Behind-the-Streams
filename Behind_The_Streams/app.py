@@ -42,7 +42,10 @@ except Exception as exc:
 
 # Let readers explore the survey by age and gender using the sidebar.
 with st.sidebar:
-    st.image("assets/behind_the_streams_logo.png", use_container_width=True)
+    st.image(
+        BASE / "assets" / "behind_the_streams_logo.png",
+        use_container_width=True
+    )
     st.header("Explore the survey")
     selected_ages = st.multiselect(
         "Age groups",
