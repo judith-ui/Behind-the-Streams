@@ -76,6 +76,8 @@ requirements.txt
 
 **Source :** [www.data.gouv.fr/datasets/pratiques-decoute-de-musique-en-ligne-2020 ?resource_id=75d359e9-e950-482a-9559-cfa96e3e94a7](https://www.data.gouv.fr/datasets/pratiques-decoute-de-musique-en-ligne-2020?resource_id=75d359e9-e950-482a-9559-cfa96e3e94a7)
 
+**Live Dashboard :** [behind-the-streams.streamlit.app](https://behind-the-streams.streamlit.app/)
+
 Under the Open License, the dataset is available for reuse. The information has been cleaned and modified for visualization and educational analysis purposes. The origin of the data as well as the publisher who published it are clearly indicated.
 
 The results highlight the distinctive traits of the study participants and do not represent snapshot data. Question 51 deals with intentional programs and not actual subscriptions; Comparisons between statistically adjusted groups are descriptive and do not prove cause and effect. The symbols on the maps represent an approximate position within the core regions, while assessments relating to limited subgroups should be taken with caution.
